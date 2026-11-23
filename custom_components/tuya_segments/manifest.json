@@ -1,0 +1,11 @@
+{
+  "domain": "tuya_segments",
+  "name": "Tuya Segments",
+  "version": "0.1.1",
+  "documentation": "https://github.com/keefey/ha-tuya-segments",
+  "issue_tracker": "https://github.com/keefey/ha-tuya-segments/issues",
+  "codeowners": ["@keefey"],
+  "after_dependencies": ["localtuya"],
+  "iot_class": "assumed_state",
+  "requirements": []
+}
